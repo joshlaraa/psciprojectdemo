@@ -9,8 +9,8 @@ To get started with the development server, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/political-science-project-demo.git
-   cd political-science-project-demo
+   git clone https://github.com/joshlaraa/psciprojectdemo.git
+   cd psciprojectdemo
    ```
 
 2. Install dependencies:

@@ -1,14 +1,6 @@
-import Image from "next/image";
 import { BackgroundLines } from "@/components/ui/background-lines";
-import {
-  Modal,
-  ModalBody,
-  ModalContent,
-  ModalFooter,
-  ModalTrigger,
-} from "@/components/ui/animated-modal";
 import PulsatingButton from "@/components/ui/pulsating-button";
-import { motion } from "framer-motion";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -22,7 +14,7 @@ export default function Home() {
             By : Josh, Grace, & Brandon
           </p>
           <PulsatingButton pulseColor="#595959" className="bg-black mt-10 ">
-            PLAY NOW
+            <Link href="/demo">PLAY NOW</Link>
           </PulsatingButton>
         </BackgroundLines>
       </main>

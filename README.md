@@ -4,6 +4,8 @@ Welcome to the Political Science Project Demo! This project aims to provide a co
 
 ## Getting Started
 
+Make sure you have Node.js installed on your machine. Cick Here : https://nodejs.org/en
+
 To get started with the development server, follow these steps:
 
 1. Clone the repository:
